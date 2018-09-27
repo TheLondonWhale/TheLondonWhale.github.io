@@ -1,3 +1,4 @@
+
 /* ça c'est le CSS du BetterMotherFuckingWebsite */
 
 body, footer
@@ -15,27 +16,4 @@ body, footer
 .PushStill
 {
 	font-style: italic;
-}
-
-/* ça c'est pour la PopUp */
-
-.button_container
-{
-	background-color: #FDA7DF;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-
-}
-
-
-#button_yes 
-{
-
 }
